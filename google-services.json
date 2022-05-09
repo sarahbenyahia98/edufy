@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477325074974",
+    "project_id": "edufy-e42ad",
+    "storage_bucket": "edufy-e42ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477325074974:android:14b5d508a2a5c0950c040f",
+        "android_client_info": {
+          "package_name": "com.pixelnx.eacademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477325074974-pg4hcrcdm4idu4q4nfl7f2jsolfq3974.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMsOADzNCR-WuFtKQq7SwKt7kpTllRyl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477325074974-pg4hcrcdm4idu4q4nfl7f2jsolfq3974.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
